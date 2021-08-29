@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(108, 245, 245);
+  font-family: cursive;
+}
+
+h3 {
+  text-align: center;
+}
+
+form {
+  color: rgb(94, 54, 168);
+
+  font-size: 30px;
+}
+
+form input {
+  color: rgb(54, 100, 168);
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: cursive;
+}
+
+button {
+  background-color: rgb(238, 57, 148);
+  border: none;
+  width: 110px;
+  padding: 5px;
+  border-radius: 5px;
+  font-family: cursive;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.div-one {
+  color: rgb(94, 54, 168);
+  font-family: cursive;
+  font-size: 20px;
+}
+.div-two {
+  color: rgb(54, 100, 168);
+  font-family: cursive;
+  font-size: 20px;
+}
